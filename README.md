@@ -1,7 +1,5 @@
 # Geographical-Information-system
 
-# Geographical-Information-system
-
 ### Problem Statement
 
 To build a website that track the location coordinates of each plant and its description. The website should be capable of locating all places the plant/species is present and plot them on the map.
@@ -24,4 +22,4 @@ It does the exact same job as like PHP based project except jsp responsive pages
 
 ## Sample output
 
-![Satelite View](https://github.com/harshshah4/Geographical-Information-system/cdacbsi-java/tree/master/image/readme-img-1.png)
+![Satelite View](https://github.com/harshshah4/Geographical-Information-system/blob/master/cdacbsi-java/image/readme-img-1.png)
